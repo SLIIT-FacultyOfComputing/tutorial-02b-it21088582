@@ -1,0 +1,2 @@
+Enter a Number : Factorial of %d is %ld
+840320
