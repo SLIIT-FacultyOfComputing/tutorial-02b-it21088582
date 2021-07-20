@@ -1,2 +1,1 @@
-Enter a Number : Factorial of %d is %ld
-840320
+Enter a Number : Factorial of %d is: 840320
